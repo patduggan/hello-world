@@ -1,2 +1,4 @@
 # hello-world
-Initial hello-world repository 
+Hi everyone,
+
+This contains the changes to the master readme file.
